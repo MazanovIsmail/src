@@ -1,0 +1,5 @@
+git add src/.
+git status
+git commit -m'added src'
+git log
+git push
